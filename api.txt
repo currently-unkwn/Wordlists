@@ -14,4 +14,22 @@ graphiql
 v1/graphiql
 v2/graphiql
 v3/graphiql
+console
+explorer
+api/graphql
+api/v1/graphql
+api/v2/graphql
+api/v3/graphql
+api/vgql
+api/vv1/gql
+api/vv2/gql
+api/vv3/gql
+api/vplayground
+api/vv1/playground
+api/vv2/playground
+api/vv3/playground
+api/vgraphiql
+api/vv1/graphiql
+api/vv2/graphiql
+api/vv3/graphiql
 

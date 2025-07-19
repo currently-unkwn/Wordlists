@@ -1,0 +1,17 @@
+graphql
+v1/graphql
+v2/graphql
+v3/graphql
+gql
+v1/gql
+v2/gql
+v3/gql
+playground
+v1/playground
+v2/playground
+v3/playground
+graphiql
+v1/graphiql
+v2/graphiql
+v3/graphiql
+

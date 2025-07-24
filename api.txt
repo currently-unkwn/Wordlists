@@ -1,4 +1,7 @@
 graphql
+graphql/v1
+graphql/v2
+graphql/v3
 v1/graphql
 v2/graphql
 v3/graphql
@@ -16,6 +19,7 @@ v2/graphiql
 v3/graphiql
 console
 explorer
+query
 api/graphql
 api/v1/graphql
 api/v2/graphql
@@ -32,4 +36,7 @@ api/graphiql
 api/v1/graphiql
 api/v2/graphiql
 api/v3/graphiql
-
+app/graphql
+dev/graphql
+index.php?graphql
+rpc/graphql

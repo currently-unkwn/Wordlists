@@ -38,5 +38,6 @@ api/v2/graphiql
 api/v3/graphiql
 app/graphql
 dev/graphql
+rw/graphql
 index.php?graphql
 rpc/graphql

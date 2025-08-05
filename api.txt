@@ -1,0 +1,7 @@
+apidoc/swagger/index.html
+swagger/index.html
+apidoc/redoc/index.html
+apidoc/index.html
+redoc/index.html
+v0/openapi.json
+openapi.json
